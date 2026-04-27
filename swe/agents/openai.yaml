@@ -1,0 +1,4 @@
+interface:
+  display_name: "General SWE"
+  short_description: "General software engineering skill for implementing features based on a Todo List."
+  default_prompt: "Use $swe to implement the feature based on the provided Todo List. Follow the instructions and constraints carefully, and ensure your implementation is efficient and maintainable."
