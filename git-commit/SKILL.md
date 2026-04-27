@@ -149,6 +149,3 @@ EOF
 - NEVER skip hooks (--no-verify) unless user asks
 - NEVER force push to main/master
 - If commit fails due to hooks, fix and create NEW commit (don't amend)
-
-This skill is based on:
-https://github.com/github/awesome-copilot
