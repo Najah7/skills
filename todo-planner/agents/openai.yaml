@@ -1,0 +1,4 @@
+interface:
+  display_name: "Todo Planner"
+  short_description: "Plan and break down a task into a structured todo list with references and overview."
+  default_prompt: "Use $todo-planner to transform requirements into a structured Todo List""
