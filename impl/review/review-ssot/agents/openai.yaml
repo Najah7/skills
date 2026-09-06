@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review SSOT"
+  short_description: "Find duplication and single-source-of-truth issues in uncommitted changes."
+  default_prompt: "Use $review-ssot to find single-source-of-truth issues in my changes."

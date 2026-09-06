@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Test Coverage"
+  short_description: "Find missing verification and ineffective test-level allocation in Plans."
+  default_prompt: "Invoke $review-test-coverage to review this implementation Plan for missing verification and test-level allocation."

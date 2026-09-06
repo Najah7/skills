@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Commit"
+  short_description: "Stage one coherent commit and suggest its Conventional Commit message."
+  default_prompt: "Use $git-commit to prepare one coherent commit without creating it."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review KISS"
+  short_description: "Review uncommitted changes for unnecessary complexity."
+  default_prompt: "Use $review-kiss to find avoidable complexity in my uncommitted changes."

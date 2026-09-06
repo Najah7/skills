@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Dependencies"
+  short_description: "Review uncommitted changes for dependency and DI issues."
+  default_prompt: "Use $review-depndency to review dependencies in my uncommitted changes."

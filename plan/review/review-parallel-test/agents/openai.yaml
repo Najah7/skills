@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Parallel Test Safety"
+  short_description: "Review whether planned tests are safe to run in parallel."
+  default_prompt: "Use $review-parallel-test to review my Plan for parallel test safety."

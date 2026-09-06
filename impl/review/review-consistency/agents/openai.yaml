@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Consistency"
+  short_description: "Review uncommitted changes for project consistency issues."
+  default_prompt: "Use $review-consistency to review my uncommitted changes for inconsistencies."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review With Plan"
+  short_description: "Review uncommitted changes against a supplied Plan."
+  default_prompt: "Use $review-with-plan to check my uncommitted changes against a Plan."

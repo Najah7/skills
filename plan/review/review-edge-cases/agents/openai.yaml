@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Edge Cases"
+  short_description: "Find missing abnormal paths, failures, and boundary cases in Plans."
+  default_prompt: "Invoke $review-edge-cases to review this implementation Plan for missing abnormal paths, failure behavior, and boundary values."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review SRP"
+  short_description: "Review uncommitted changes for single-responsibility violations."
+  default_prompt: "Use $review-srp to review my uncommitted changes for responsibility issues."

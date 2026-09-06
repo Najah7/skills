@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Comments"
+  short_description: "Review uncommitted code comments for clarity, value, and intent."
+  default_prompt: "Use $review-comment to review comments in my uncommitted changes."
